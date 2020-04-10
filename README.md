@@ -1,6 +1,6 @@
 ## Zeitlify.io
 
-- Repo for my Testing
+- Repo For Base Marketing Site
 
 ## SPECS
 
